@@ -38,4 +38,3 @@ Running the above example will complete all offboarding steps and then prompt yo
 User Data is downloaded locally into: C:\DruvaDownloads 
 This can be changed in the function def initiateDownload() with the payload variable. Change the value of 'downloadLocation'
 Unfortunately Druva Inync Download Client does not support downloading to external drives that are NAS drives. They mentioned they will add to feature requests. 
-Once this completes go ahead and run the other script from the Desktop: "FileOrganizationPython" to rename folders appropriately and move into Neptune.
